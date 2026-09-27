@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Prajwal Paudel
 
-### 💻 Full-Stack Developer | Frontend Developer | Tech Enthusiast
+### 💻 BCA Student | Full-Stack Developer | Frontend Developer | Tech Enthusiast
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Prajwal8112&label=Profile%20Views&color=00C853&style=flat" alt="Profile Views" />
